@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI_adventure_game/static/css/main.965e17c2.css",
+    "main.js": "/AI_adventure_game/static/js/main.d3ccb859.js",
+    "index.html": "/AI_adventure_game/index.html",
+    "main.965e17c2.css.map": "/AI_adventure_game/static/css/main.965e17c2.css.map",
+    "main.d3ccb859.js.map": "/AI_adventure_game/static/js/main.d3ccb859.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.965e17c2.css",
+    "static/js/main.d3ccb859.js"
+  ]
+}
