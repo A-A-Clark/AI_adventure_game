@@ -20,7 +20,7 @@ api.interceptors.response.use(
         if (errMsg && errMsg.toLowerCase().includes('expired')) {
           // Clear the token from local storage.
           localStorage.removeItem('token');
-          // Optionally, display a message or notification to the user.
+          
           // Then redirect the user to the login page.
           window.location.href = '/login';
         }

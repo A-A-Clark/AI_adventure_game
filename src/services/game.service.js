@@ -1,4 +1,3 @@
-// Replace the direct axios import with our custom instance.
 import api from './axiosInstance';
 
 export function generateContent(prompt, token) {
