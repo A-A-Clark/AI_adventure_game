@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AI_adventure_game/static/css/main.965e17c2.css",
-    "main.js": "/AI_adventure_game/static/js/main.e50fadb9.js",
+    "main.css": "/AI_adventure_game/static/css/main.83602c83.css",
+    "main.js": "/AI_adventure_game/static/js/main.69ff4c98.js",
     "index.html": "/AI_adventure_game/index.html",
-    "main.965e17c2.css.map": "/AI_adventure_game/static/css/main.965e17c2.css.map",
-    "main.e50fadb9.js.map": "/AI_adventure_game/static/js/main.e50fadb9.js.map"
+    "main.83602c83.css.map": "/AI_adventure_game/static/css/main.83602c83.css.map",
+    "main.69ff4c98.js.map": "/AI_adventure_game/static/js/main.69ff4c98.js.map"
   },
   "entrypoints": [
-    "static/css/main.965e17c2.css",
-    "static/js/main.e50fadb9.js"
+    "static/css/main.83602c83.css",
+    "static/js/main.69ff4c98.js"
   ]
 }
