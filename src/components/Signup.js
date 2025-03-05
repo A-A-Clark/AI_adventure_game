@@ -17,7 +17,7 @@ function Signup() {
     try {
       const res = await signup(username, email, password);
       setToken(res.data.token);
-      navigate('/game');
+      navigate('/setup');
     } catch (err) {
       console.error(err);
       setError('Error signing up. Please try again.');
